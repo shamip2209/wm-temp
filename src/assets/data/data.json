@@ -1,0 +1,68 @@
+{
+    "socialMediaLinks": [
+      {
+        "icon": "/src/assets/images/instagram.png",
+        "link": "https://www.instagram.com/wizzyminds?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+      },
+      {
+        "icon": "/src/assets/images/behance.png",
+        "link": "https://www.instagram.com/wizzyminds?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+      },
+      {
+        "icon": "/src/assets/images/dribble.png",
+        "link": "https://www.instagram.com/wizzyminds?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+      },
+      {
+        "icon": "/src/assets/images/LinkedIn.png",
+        "link": "https://www.linkedin.com/company/wizzyminds/"
+      }
+    ],
+    "testimonialData":[
+        {
+            "title": "Miriam S.Pattison",
+            "account":"@youraccount",
+            "description":"“Li Europan lingues es membres del sam familie. Lor separat existentie es un. Por scientie, musica, sport etc”",
+            "date":"21 December 2023",
+            "rating":4.8
+        },
+        {
+            "title": "Angelina Juli",
+            "account":"@youraccount",
+            "description":"“Li Europan lingues es membres del sam familie. Lor separat existentie es un. Por scientie, musica, sport etc”",
+            "date":"21 August 2023",
+            "rating":4.8
+        },
+        {
+            "title": "Julietro Amay",
+            "account":"@youraccount",
+            "description":"“Li Europan lingues es membres del sam familie. Lor separat existentie es un. Por scientie, musica, sport etc”",
+            "date":"21 July 2023",
+            "rating":4.8
+        },
+        {
+            "title": "Marsina Tololet",
+            "account":"@youraccount",
+            "description":"“Li Europan lingues es membres del sam familie. Lor separat existentie es un. Por scientie, musica, sport etc”",
+            "date":"14 August 2023",
+            "rating":4.6
+        },
+        {
+            "title": "Shamil D'Cruze",
+            "account":"@youraccount",
+            "description":"“Li Europan lingues es membres del sam familie. Lor separat existentie es un. Por scientie, musica, sport etc”",
+            "date":"21 August 2023",
+            "rating":4.9
+        },
+        {
+            "title": "Julietro Amay",
+            "account":"@youraccount",
+            "description":"“Li Europan lingues es membres del sam familie. Lor separat existentie es un. Por scientie, musica, sport etc”",
+            "date":"21 July 2023",
+            "rating":4.8
+        }
+
+
+    ]
+  }
+
+  
