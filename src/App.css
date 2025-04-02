@@ -1,1 +1,29 @@
 @import "tailwindcss";
+
+@keyframes auto-scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+  
+  .scroll-container {
+    display: flex;
+    animation: auto-scroll 6s linear infinite;
+  }
+
+  @keyframes scroll {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-scroll {
+    display: flex;
+    white-space: nowrap;
+    animation: scroll 30s linear infinite;
+    width: max-content; /* Ensures smooth scrolling */
+  }
+  
+  

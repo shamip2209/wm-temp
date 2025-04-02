@@ -1,14 +1,28 @@
 import React from 'react'
-import Collab from './components/Collab'
-import Contact from './components/Footer'
+
+import About from './components/About'
+import Project from './components/Project'
 import Testimonials from './components/Testimonials'
+import Cta from './components/Cta'
+import Collab from './components/Collab'
+import Partners from './components/Partners'
+import CustomerTestimonial from './components/CustomerTestimonial'
+import Contact from './components/Footer'
+
+
 
 function App() {
   return (
     <div>
+      <About/>
+      <Project/>
       <Testimonials/>
+      <Cta/>
+      <Partners/>
+      <CustomerTestimonial/>
       <Collab/>
       <Contact/>
+   
     </div>
   )
 }
