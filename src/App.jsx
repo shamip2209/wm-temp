@@ -1,4 +1,5 @@
 import React from 'react'
+import Banner from './components/Banner'
 
 import About from './components/About'
 import Project from './components/Project'
@@ -11,9 +12,11 @@ import Contact from './components/Footer'
 
 
 
+
 function App() {
   return (
     <div>
+      <Banner/>
       <About/>
       <Project/>
       <Testimonials/>
