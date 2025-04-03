@@ -1,6 +1,6 @@
 import React from "react";
-import drawing from "../assets/images/drawing.jpg"; // Ensure correct path"
-import pottedPlant from "../assets/images/potted-plant.jpg"; // Ensure correct path"
+import drawing from "/public/assets/images/drawing.jpg"; // Ensure correct path"
+import pottedPlant from "/public/assets/images/potted-plant.jpg"; // Ensure correct path"
 
 function Collab() {
   return (

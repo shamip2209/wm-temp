@@ -1,5 +1,5 @@
 import React from "react";
-import data from "/src/assets/data/data.json";
+import data from "/public/assets/data/data.json";
 
 function CustomerTestimonial() {
   return (

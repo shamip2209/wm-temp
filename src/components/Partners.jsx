@@ -1,5 +1,5 @@
 import React from "react";
-import data from "/src/assets/data/data.json";
+import data from "/public/assets/data/data.json";
 
 function Partners() {
   return (
@@ -54,22 +54,22 @@ function Partners() {
           {/* Second row static */}
           <div className="flex flex-wrap justify-center items-center mt-8 sm:mt-10 gap-6 sm:gap-10 md:gap-14 px-4">
             <img
-              src="/src/assets/Collaborators/thunderblack.png"
+              src="public/assets/Collaborators/thunderblack.png"
               alt="Thunder logo"
               className="w-20 sm:w-24 md:w-28 lg:w-36 h-auto object-contain"
             />
             <img
-              src="/src/assets/Collaborators/parallelogram.png"
+              src="/public/assets/Collaborators/parallelogram.png"
               alt="Parallelogram logo"
               className="w-20 sm:w-24 md:w-28 lg:w-36 h-auto object-contain"
             />
             <img
-              src="/src/assets/Collaborators/hexagonIpsum.png"
+              src="/public/assets/Collaborators/hexagonIpsum.png"
               alt="Hexagon Ipsum logo"
               className="w-20 sm:w-24 md:w-28 lg:w-36 h-auto object-contain"
             />
             <img
-              src="/src/assets/Collaborators/flowerblack.png"
+              src="/public/assets/Collaborators/flowerblack.png"
               alt="Flower logo"
               className="w-20 sm:w-24 md:w-28 lg:w-36 h-auto object-contain"
             />

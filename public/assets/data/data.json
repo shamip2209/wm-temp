@@ -1,19 +1,19 @@
 {
   "socialMediaLinks": [
     {
-      "icon": "/src/assets/images/instagram.png",
+      "icon": "/public/assets/images/Instagram.png",
       "link": "https://www.instagram.com/wizzyminds?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
     },
     {
-      "icon": "/src/assets/images/behance.png",
+      "icon": "/public/assets/images/Behance.png",
       "link": "https://www.instagram.com/wizzyminds?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
     },
     {
-      "icon": "/src/assets/images/dribble.png",
+      "icon": "/public/assets/images/Dribble.png",
       "link": "https://www.instagram.com/wizzyminds?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
     },
     {
-      "icon": "/src/assets/images/LinkedIn.png",
+      "icon": "/public/assets/images/LinkedIn.png",
       "link": "https://www.linkedin.com/company/wizzyminds/"
     }
   ],
@@ -63,25 +63,25 @@
   ],
   "projectData": [
     {
-      "image": "/src/assets/images/3Design.jpg",
+      "image": "/public/assets/images/3Design.jpg",
       "title": "3D Design",
       "description": "Sed placerat sem risus, id iaculis leo magna in. Proin massa lectus,",
       "link": "https://wizzyminds.com/"
     },
     {
-      "image": "/src/assets/images/mobileApps.jpg",
+      "image": "/public/assets/images/mobileApps.jpg",
       "title": "Mobile Apps",
       "description": "Sed placerat sem risus, id iaculis leo magna in. Proin massa lectus,",
       "link": "https://wizzyminds.com/"
     },
     {
-      "image": "/src/assets/images/LandingPage.jpg",
+      "image": "/public/assets/images/LandingPage.jpg",
       "title": "Landing Page",
       "description": "Sed placerat sem risus, id iaculis leo magna in. Proin massa lectus,",
       "link": "https://wizzyminds.com/"
     },
     {
-      "image": "/src/assets/images/Presentation.jpg",
+      "image": "/public/assets/images/Presentation.jpg",
       "title": "Presentation",
       "description": "Sed placerat sem risus, id iaculis leo magna in. Proin massa lectus,",
       "link": "https://wizzyminds.com/"
@@ -105,111 +105,111 @@
     {
       "cName": "John Davis",
       "quote": "“The premium plan took our brand identity to the next level. The personalized design consultation helped us refine our vision, and the unlimited revisions ensured we were fully satisfied with the outcome. Our rebranding has led to increased customer engagement, and we couldn’t be happier with the results!”",
-      "image": "/src/assets/images/3Design.jpg",
+      "image": "/public/assets/images/3Design.jpg",
       "position": "Founder of GreenTech Solutions"
     },
     {
       "cName": "Sarah Thompson",
       "quote": "“Working with michelle was an incredible experience. The design not only exceeded our expectations but also transformed the way our users interact with our app. The level of attention to detail and creativity was exceptional. Highly recommend to anyone looking for top-tier design!”",
-      "image": "/src/assets/images/3Design.jpg",
+      "image": "/public/assets/images/3Design.jpg",
       "position": "CEO of Fitlife App"
     },
     {
       "cName": "John Davis",
       "quote": "“The premium plan took our brand identity to the next level. The personalized design consultation helped us refine our vision, and the unlimited revisions ensured we were fully satisfied with the outcome. Our rebranding has led to increased customer engagement, and we couldn’t be happier with the results!”",
-      "image": "/src/assets/images/3Design.jpg",
+      "image": "/public/assets/images/3Design.jpg",
       "position": "Founder of GreenTech Solutions"
     },
     {
       "cName": "John Davis",
       "quote": "“The premium plan took our brand identity to the next level. The personalized design consultation helped us refine our vision, and the unlimited revisions ensured we were fully satisfied with the outcome. Our rebranding has led to increased customer engagement, and we couldn’t be happier with the results!”",
-      "image": "/src/assets/images/3Design.jpg",
+      "image": "/public/assets/images/3Design.jpg",
       "position": "Founder of GreenTech Solutions"
     }
   ],
   "PartnerCollaborators": [
     {
-      "logo": "/src/assets/Collaborators/flowerIpsum.png"
+      "logo": "/public/assets/Collaborators/flowerIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/plusLogo.png"
+      "logo": "/public/assets/Collaborators/plusLogo.png"
     },
     {
-      "logo": "/src/assets/Collaborators/coloredogo.png"
+      "logo": "/public/assets/Collaborators/coloredogo.png"
     },
     {
-      "logo": "/src/assets/Collaborators/plusLogo.png"
+      "logo": "/public/assets/Collaborators/plusLogo.png"
     },
     {
-      "logo": "/src/assets/Collaborators/thunderIpsum.png"
+      "logo": "/public/assets/Collaborators/thunderIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/sunIpsum.png"
+      "logo": "/public/assets/Collaborators/sunIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/diagonalIpsum.png"
+      "logo": "/public/assets/Collaborators/diagonalIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/flowerIpsum.png"
+      "logo": "/public/assets/Collaborators/flowerIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/rainbowIpsum.png"
+      "logo": "/public/assets/Collaborators/rainbowIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/flowerIpsum.png"
+      "logo": "/public/assets/Collaborators/flowerIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/plusLogo.png"
+      "logo": "/public/assets/Collaborators/plusLogo.png"
     },
     {
-      "logo": "src/assets/Collaborators/logoipsum-332.svg"
+      "logo": "public/assets/Collaborators/logoipsum-332.svg"
     },
     {
-      "logo": "/src/assets/Collaborators/sunIpsum.png"
+      "logo": "/public/assets/Collaborators/sunIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/thunderIpsum.png"
+      "logo": "/public/assets/Collaborators/thunderIpsum.png"
     },
     {
-      "logo": "/src/assets/Collaborators/diagonalIpsum.png"
+      "logo": "/public/assets/Collaborators/diagonalIpsum.png"
     }
   ],
   "greyLogos": [
     {
-      "gLogo": "/src/assets/Collaborators/parallelogram.png"
+      "gLogo": "/public/assets/Collaborators/parallelogram.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/cutIpsum.png"
+      "gLogo": "/public/assets/Collaborators/cutIpsum.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/cutIpsum.png"
+      "gLogo": "/public/assets/Collaborators/cutIpsum.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/hexagonIpsum.png"
+      "gLogo": "/public/assets/Collaborators/hexagonIpsum.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/rainbowblack.png"
+      "gLogo": "/public/assets/Collaborators/rainbowblack.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/thunderblack.png"
+      "gLogo": "/public/assets/Collaborators/thunderblack.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/parallelogram.png"
+      "gLogo": "/public/assets/Collaborators/parallelogram.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/cutIpsum.png"
+      "gLogo": "/public/assets/Collaborators/cutIpsum.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/flowerblack.png"
+      "gLogo": "/public/assets/Collaborators/flowerblack.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/hexagonIpsum.png"
+      "gLogo": "/public/assets/Collaborators/hexagonIpsum.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/rainbowblack.png"
+      "gLogo": "/public/assets/Collaborators/rainbowblack.png"
     },
     {
-      "gLogo": "/src/assets/Collaborators/thunderblack.png"
+      "gLogo": "/public/assets/Collaborators/thunderblack.png"
     }
   ]
 }

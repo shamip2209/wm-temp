@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import data from "/src/assets/data/data.json";
+import data from "/public/assets/data/data.json";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 import { FcApproval } from "react-icons/fc";
 

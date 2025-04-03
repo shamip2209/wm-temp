@@ -1,7 +1,7 @@
 
     import React from 'react';
     import { useState } from 'react';
-    import data from '/src/assets/data/data.json';
+    import data from '/public/assets/data/data.json';
     
     export default function Contact() {
       const [formData, setFormData] = useState({

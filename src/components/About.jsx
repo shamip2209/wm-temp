@@ -1,5 +1,5 @@
 import React from "react";
-import data from '/src/assets/data/data.json';
+import data from '/public/assets/data/data.json';
 
 function About() {
   return (
@@ -35,7 +35,7 @@ function About() {
         {/* image container */}
 
         <div className="w-full p-5 sm:p-10 md:p-12 lg:p-20 ">
-          <img src="/src/assets/images/abt.png" alt="" className="w-full h-[200px] sm:h-[350px] md:h-[450px] lg:h-[600px] object-cover rounded-b-[100px] sm:rounded-b-[150px] md:rounded-b-[220px]" />
+          <img src="/public/assets/images/abt.png" alt="" className="w-full h-[200px] sm:h-[350px] md:h-[450px] lg:h-[600px] object-cover rounded-b-[100px] sm:rounded-b-[150px] md:rounded-b-[220px]" />
         </div>
       </div>
     </div>
