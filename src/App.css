@@ -26,4 +26,30 @@
     width: max-content; /* Ensures smooth scrolling */
   }
   
-  
+  /* Add this to your CSS or create a style tag */
+@keyframes scroll-partner {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-50% - 4rem)); /* Adjust based on gap size */
+  }
+}
+
+.animate-scroll-partner {
+  animation: scroll-partner 30s linear infinite;
+}
+
+/* Add these keyframes to your CSS */
+@keyframes pulse-slow {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.3;
+  }
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 8s infinite;
+}
